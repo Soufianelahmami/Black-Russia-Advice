@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"Maintaining a strong connection to your cultural roots is essential in navigating life as a Black Russian. ","photo2":"https://iili.io/HUQBtR4.jpg"},
+  {"desc3":" Engage in cultural events, celebrations, and communities that allow you to connect with individuals who share similar backgrounds. ","photo3":"https://iili.io/HUQBpxS.jpg"},
+  {"desc4":" Engage in cultural events, celebrations, and communities that allow you to connect with individuals who share similar backgrounds. ","photo4":"https://iili.io/HUQBbb2.png"},
+  {"desc5":"Promote understanding and awareness about Black culture and history by sharing your experiences and knowledge with others. ","photo5":"https://iili.io/HUQBZJf.jpg"},
+  {"descd":"Engage in open and respectful conversations about race, diversity, and inclusion, aiming to challenge stereotypes and dispel misconceptions. ","photod":"https://iili.io/HUQBDOl.jpg"}
    ]
  
 }
